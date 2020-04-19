@@ -17,7 +17,7 @@ main{
     display: block;
 }
 .top_container{
-    background-image: url(img/webdesign-banner.png);
+    background-image: url(webdesign-banner.png);
     opacity: 0.6;
     background-size: cover;
     object-fit: cover;
